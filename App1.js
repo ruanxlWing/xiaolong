@@ -9,6 +9,7 @@ import WebPage from './js/page/main/WebPage';
 import ErrorModal from './js/page/ErrorModal';
 import Login from './js/page/Login';
 import Register from './js/page/Register';
+import MessageBar from './js/component/MessageBar';
 
 export default class App1 extends React.Component {
     render() {
@@ -25,15 +26,16 @@ export default class App1 extends React.Component {
                                 </Tabs>
                                 <Scene key="web" component={WebPage} title="网页" hideNavBar={false}/>
                             </Scene>
-                            <Scene key='loginPage' title='' hideNavBar>
-                                <Scene key="login" component={Login} title="登录"  />
-                                <Scene key="register" component={Register} title="注册"  />
+                            <Scene key='loginPage' title='登录' hideNavBar={false}>
+                                <Scene key="login" component={Login} title="登录"  hideNavBar={true}/>
+                                <Scene key="register" component={Register} title="注册"  hideNavBar={true}/>
                             </Scene>
                         </Stack>
 
                     </Lightbox>
                     <Scene key="error" component={ErrorModal}/>
                 </Modal>
+                <Scene component={MessageBar} />
             </Overlay>
         </Router>;
     }

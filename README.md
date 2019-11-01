@@ -22,5 +22,9 @@ Android SDK路径要调整，最好使用Androidstudio加载一次；然后运�
 过时的生命周期，重命名
 npx react-codemod rename-unsafe-lifecycles
 
+关联对应第三方包
+react-native link react-native-message-bar
 
+常用组件参考网页
+https://www.jianshu.com/p/f3fc23c76740
 
