@@ -1156,9 +1156,9 @@ acorn-walk@^6.0.1:
   integrity sha1-Ejy487hMIXHx9/slJhWxx4prGow=
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha1-Z6ojG/iBKXS4UjWpZ3Hra9B+onk=
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1:
   version "6.3.0"
@@ -5428,11 +5428,6 @@ react-native-dropdownalert@^4.2.0:
   integrity sha1-t/QYtpVAWLDIIti0nof6hsy7bxo=
   dependencies:
     prop-types "15.5.10"
-
-react-native-message-bar@^2.0.10:
-  version "2.0.10"
-  resolved "https://registry.npm.taobao.org/react-native-message-bar/download/react-native-message-bar-2.0.10.tgz#34632bdf2cbfe0f51ae4f1e9a91c42b4394a11c2"
-  integrity sha1-NGMr3yy/4PUa5PHpqRxCtDlKEcI=
 
 react-native-router-flux@^4.0.6:
   version "4.0.6"
