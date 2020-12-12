@@ -3178,9 +3178,9 @@ inherits@2, inherits@2.0.4, inherits@^2.0.3, inherits@~2.0.3:
   integrity sha1-D6LGT5MpF8NDOg3tVTY6rjdBa3w=
 
 ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.npm.taobao.org/ini/download/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha1-7uJfVtscnsYIXgwid4CD9Zar+Sc=
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inquirer@3.0.6:
   version "3.0.6"
@@ -5428,11 +5428,6 @@ react-native-dropdownalert@^4.2.0:
   integrity sha1-t/QYtpVAWLDIIti0nof6hsy7bxo=
   dependencies:
     prop-types "15.5.10"
-
-react-native-message-bar@^2.0.10:
-  version "2.0.10"
-  resolved "https://registry.npm.taobao.org/react-native-message-bar/download/react-native-message-bar-2.0.10.tgz#34632bdf2cbfe0f51ae4f1e9a91c42b4394a11c2"
-  integrity sha1-NGMr3yy/4PUa5PHpqRxCtDlKEcI=
 
 react-native-router-flux@^4.0.6:
   version "4.0.6"
