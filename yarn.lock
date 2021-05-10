@@ -4161,9 +4161,9 @@ lodash.unescape@4.0.1:
   integrity sha1-vyJJiGzlFM2hEvrpIYzcBlIR/Jw=
 
 lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.5, lodash@^4.3.0:
-  version "4.17.15"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha1-tEf2ZwoEVbv+7dETku/zMOoJdUg=
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
@@ -5428,11 +5428,6 @@ react-native-dropdownalert@^4.2.0:
   integrity sha1-t/QYtpVAWLDIIti0nof6hsy7bxo=
   dependencies:
     prop-types "15.5.10"
-
-react-native-message-bar@^2.0.10:
-  version "2.0.10"
-  resolved "https://registry.npm.taobao.org/react-native-message-bar/download/react-native-message-bar-2.0.10.tgz#34632bdf2cbfe0f51ae4f1e9a91c42b4394a11c2"
-  integrity sha1-NGMr3yy/4PUa5PHpqRxCtDlKEcI=
 
 react-native-router-flux@^4.0.6:
   version "4.0.6"
